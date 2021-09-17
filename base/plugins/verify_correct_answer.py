@@ -3,7 +3,7 @@ from pyrogram.types import Message
 
 from base.settings import OWNERS
 from base.settings import data as temp_data
-from base.plugins.utilities import power_filter
+from base.plugins.custom_filters import power_filter
 
 # Variables
 msg_scheme = "{}: {}\n"

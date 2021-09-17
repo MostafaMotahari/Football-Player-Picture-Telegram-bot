@@ -8,9 +8,9 @@ from base.settings import (
     ALL_PLAYERS_NAME, USED_PLAYER_NAMES,
     ALL_SEARCH_PLAYER_NAME, USED_SEARCH_PLAYER_NAMES
 )
-from base.plugins.utilities import power_filter
+from base.plugins.custom_filters import power_filter
 
-# TgCrypto==1.2.2
+
 # Send picture
 @Client.on_message(filters.user(OWNERS) & power_filter & (filters.regex("/speed$") | filters.regex("/search$")))
 def next_picture(cli: Client, msg):

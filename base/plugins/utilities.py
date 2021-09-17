@@ -1,6 +1,5 @@
 
 from pyrogram import filters
-import base.settings as settings
 
 # Get list of admins from admins file
 def get_admins_list():
@@ -68,7 +67,3 @@ def add_to_dataset(file_path: str):
 
         open('base/data/speed_player_names/speeds_player.txt', 'a').writelines(normal_lines)
         open('base/data/speed_player_names/search_player.txt.txt', 'a').writelines(hashtag_lines)
-
-
-# Check power of bot filter
-power_filter = filters.create(lambda _, __, msg: settings.data["power"] == "on")
