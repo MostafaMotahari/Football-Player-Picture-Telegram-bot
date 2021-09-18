@@ -48,22 +48,34 @@ def get_all_search_names():
     return all_names
 
 # Add new dateset
-def add_to_dataset(file_path: str):
+def add_to_dataset(file_path: str, starts_with: bool):
     with open(file_path, 'r') as read_dataset:
         lines = read_dataset.readlines()
         normal_lines = []
         hashtag_lines = []
 
         for line in lines:
-            if not line.startswith("#"):
-                normal_lines.append(
-                    line
-                )
+            if starts_with:
+                if not line.startswith("#"):
+                    normal_lines.append(
+                        line
+                    )
+
+                else:
+                    hashtag_lines.append(
+                        line[1:]
+                    )
 
             else:
-                hashtag_lines.append(
-                    line[1:]
-                )
+                if not line.strip("\n").endswith("#"):
+                    normal_lines.append(
+                        line
+                    )
+
+                else:
+                    hashtag_lines.append(
+                        line.strip("\n")[:-1] + "\n"
+                    )
 
         open('base/data/speed_player_names/speeds_player.txt', 'a').writelines(normal_lines)
-        open('base/data/speed_player_names/search_player.txt.txt', 'a').writelines(hashtag_lines)
+        open('base/data/search_player_names/search_player.txt', 'a').writelines(hashtag_lines)
