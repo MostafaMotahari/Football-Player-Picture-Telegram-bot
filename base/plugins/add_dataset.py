@@ -12,10 +12,15 @@ from base.settings import (
 )
 
 # Add to dataset
-@Client.on_message(filters.user(OWNER) & filters.regex("^/add_dataset$") & filters.reply)
+@Client.on_message(filters.user(OWNER) & filters.regex("^/add_dataset_(.*)$") & filters.reply)
 def add_new_dataset(cli, msg):
     new_dataset = msg.reply_to_message.download()
-    add_to_dataset(new_dataset)
+
+    if msg.text.split("_")[-1] == "start":
+        add_to_dataset(new_dataset, starts_with=True)
+
+    elif msg.text.split("_")[-1] == "end":
+        add_to_dataset(new_dataset, starts_with=False)
 
     global ALL_PLAYERS_NAME
     ALL_PLAYERS_NAME = get_all_names()
