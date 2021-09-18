@@ -1,0 +1,316 @@
+Francesco Acerbi
+Adrien Silva
+Jean-Daniel Akpa-Akpro
+Alex Sandro
+Sofyan Amrabat
+Andreas Pereira
+Cristian Ansaldi
+Arthur
+Kwadwo Asamoah
+Milan Badelj
+Tiemoué Bakayoko
+Keita Baldé
+Nicolò Barella
+Alessandro Bastoni
+Andrea Belotti
+Ismaël Bennacer
+Rodrigo Bentancur
+Domenico Berardi
+Federico Bernardeschi
+Cristiano Biraghi
+Jérémie Boga
+Giacomo Bonaventura
+Leonardo Bonucci
+Borja Mayoral
+Borja Valero
+Brahim Díaz
+Marcelo Brozović
+Bruno Alves
+Bruno Peres
+Gianluigi Buffon
+Martín Cáceres
+Felipe Caicedo
+Davide Calabria
+Mattia Caldara
+Hakan Çalhanoğlu
+Antonio Candreva
+Carles Pérez
+Gaetano Castrovilli
+Giorgio Chiellini
+Federico Chiesa
+Luca Cigarini:
+Andrea Consigli
+Andrea Conti
+Joaquín Correa
+Bryan Cristante
+Cristiano Ronaldo
+Juan Cuadrado
+Danilo D'Ambrosio
+Mikkel Damsgaard
+Danilo
+Matteo Darmian
+Matthijs de Ligt
+Rodrigo de Paul
+Marten de Roon
+Stefan de Vrij
+Grégoire Defrel
+Merih Demiral
+Diego Demme
+Mattia Destro
+Giovanni Di Lorenzo
+Amadou Diawara
+Federico Dimarco
+Diogo Dalot
+Berat Djimsiti
+Antonio Donnarumma
+Gianluigi Donnarumma
+Bartłomiej Drągowski
+Paulo Dybala
+Edin Džeko
+Stephan El Shaarawy
+Christian Eriksen
+Fabián Ruiz
+Federico Fazio
+Remo Freuler
+Manolo Gabbiadini
+Roberto Gagliardini
+Gerard Deulofeu
+Gervinho
+Faouzi Ghoulam
+Kamil Glik
+Diego Godín
+Pierluigi Gollini
+Gonzalo Villar
+Robin Gosens
+Achraf Hakimi
+Samir Handanovič
+Hans Hateboer
+Jens Hauge
+Theo Hernández
+Elseid Hysaj
+Iago Falqué
+Ibañez
+Zlatan Ibrahimović
+Josip Iličič
+Lorenzo Insigne
+João Pedro
+José Callejón
+Juan Jesus
+Junior Messias
+Nikola Kalinić
+Pierre Kalulu
+Rick Karsdorp
+Franck Kessié
+Simon Kjær
+Ragnar Klavan
+Aleksandr Kokorin
+Aleksandar Kolarov
+Christian Kouamé
+Kalidou Koulibaly
+Viktor Kovalenko
+Rade Krunić
+Juraj Kucka
+Dejan Kulusevski
+Marash Kumbulla
+Jasmin Kurtić
+Manuel Lazzari
+Llorente
+Stanislav Lobotka
+Manuel Locatelli
+Maxime López
+Hirving Lozano
+Lucas Leiva
+Luis Alberto
+Luiz Felipe
+Romelu Lukaku
+Senad Lulić
+Nikola Maksimović
+Kévin Malcuit
+Daniel Maldini
+Ruslan Malinovskiy
+Gianluca Mancini
+Mario Mandžukić
+Kostas Manolas
+Mário Rui
+Lautaro Martínez
+Joakim Mæhle
+Weston McKennie
+Gary Medel
+Soualiho Meïté
+Alex Meret
+Dries Mertens
+Nikola Milenković
+Sergej Milinković-Savić
+Aleksey Miranchuk
+Antonio Mirante
+Henrikh Mkhitaryan
+Morata
+Luis Muriel
+Vedat Muriqi
+Mateo Musacchio
+Juan Musso
+Nicolas N'Koulou
+Radja Nainggolan
+Nahitan Nández
+Victor Osimhen
+David Ospina
+Adam Ounas
+Rodrigo Palacio
+José Palomino
+Goran Pandev
+Marco Parolo
+Mario Pašalić
+Javier Pastore
+Patric
+Pau López
+Pedro
+Graziano Pellè
+Lorenzo Pellegrini
+Luca Pellegrini
+Pepe Reina
+Roberto Pereyra
+Mattia Perin
+Ivan Perišić
+Matteo Pessina
+Andrea Petagna
+Germán Pezzella
+Matteo Politano
+Fabio Quagliarella
+Adrien Rabiot
+Stefan Radu
+Rafael Leão
+Aaron Ramsey
+Andrea Ranocchia
+Giacomo Raspadori
+Ante Rebić
+Bryan Reynolds
+Franck Ribéry
+Tomás Rincón
+Ricardo Rodríguez
+Alessio Romagnoli
+Cristian Romero
+Amir Rrahmani
+Daniele Rugani
+Alexis Saelemaekers
+Samu Castillejo
+Alexis Sánchez
+Nicola Sansone
+Davide Santon
+Gianluca Scamacca
+Stefano Sensi
+Eldor Shomurodov
+Giovanni Simeone
+Salvatore Sirigu
+Milan Škriniar
+Chris Smalling
+Leonardo Spinazzola
+Thomas Strakosha
+Kevin Strootman
+Wojciech Szczęsny
+Ciprian Tătăruşanu
+Jeremy Toljan
+Rafael Tolói
+Takehiro Tomiyasu
+Fikayo Tomori
+Sandro Tonali
+Matías Vecino
+Jordan Veretout
+Arturo Vidal
+Dušan Vlahović
+Maya Yoshida
+Ashley Young
+Mattia Zaccagni
+Nicolò Zaniolo
+Cristián Zapata
+Duván Zapata
+Davide Zappacosta
+Simone Zaza
+Piotr Zieliński
+Joshua Zirkzee
+﻿#Hodei_Oleaga
+Unai Simón
+I. Martínez
+Williams
+Oblak 
+Godín
+Savić
+L. Hernández
+J. M. Giménez
+Thomas
+Koke
+Saúl
+Rodrigo
+Griezmann
+Correa
+Lemar
+Diego Costa
+Morata
+Youssef En-Nesyri
+Braithwaite
+Ter Stegen
+Cillessen
+N. Semedo
+Piqué
+Clement Lenglet
+Jordi Alba
+S. Roberto
+Umtiti
+I. Rakitić
+Sergio
+Coutinho
+Arthur
+Rafinha
+Vidal
+Suárez
+Messi
+O. Dembélé
+Bono
+B. Mayoral
+Nacho
+Araújo
+Vázquez
+Iago Aspas
+Hermoso
+Pau López
+Emerson
+Bartra
+William Carvalho
+Giovani Lo Celso
+Navas
+Courtois
+Carvajal
+Vallejo
+Sergio Ramos
+Varane
+Nacho
+Marcelo
+Odriozola
+Reguilón
+Kroos
+Modrić
+Casemiro
+Valverde
+M. Llorente
+Asensio
+Brahim Díaz
+Isco
+D. Ceballos
+Mariano
+Benzema
+Bale
+L. Vázquez
+Vinicius
+Theo
+Oyarzabal
+Kjaer
+Aleix Vidal
+J. Navas
+Sarabia
+Vázquez
+Ben Yedder
+André Silva
+Neto
+Gayá
+Kondogbia
+Rodrigo
+S. Cazorla

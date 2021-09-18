@@ -1,0 +1,930 @@
+Leroy Abanda Mfomo
+Mohamed Abukar
+Gennaro Acampora
+Enzo Adeagbo
+Giuseppe Agostino
+Lucien Agoumé
+Kevin Agudelo
+Marley Aké
+Alejandro Marqués
+Vincenzo Alfieri
+Marco Alia
+Wisdom Amey
+Bruno Amione
+Djavan Anderson
+Angelo da Costa
+Ebenezer Annan
+Luca Antei
+Valentin Antov
+Simone Aresti
+Nicolò Armini
+Alex Arnofoli
+Tolgay Arslan
+Federico Artioli
+Gabriele Artistico
+Kristoffer Askildsen
+Emil Audero
+Tommaso Augello
+Lorenzo Avogadri
+Kaan Ayhan
+Andri Baldursson
+Botond Balogh
+Mory Bamba
+Abdoul Bane
+Mattia Bani
+Antonín Barák
+Federico Barba
+Madiu Bari
+Musa Barrow
+Daniele Baselli
+Salah Basha
+Simone Bastoni
+Thomas Battistella
+Valon Behrami
+Ahmad Benali
+Marco Benassi
+Alessandro Berardi
+Bartosz Bereszyński
+Filippo Berti
+Lorenzo Bertini
+Marco Bertini
+Nicoló Bertola
+Alessandro Bianco
+Davide Biraschi
+Salvatore Boccia
+Pietro Boer
+Federico Bonazzoli
+Nicholas Bonfanti
+Kevin Bonifazi
+Nicola Borghetto
+Riccardo Boscolo Chio
+Mehdi Bourabia
+Edoardo Bove
+Jayden Braaf
+Eugenio Bracelli
+Federico Brancolini
+Bremer
+Gastón Brugman
+Juan Brunetta
+Alessandro Buongiorno
+Bernardo Calabrese
+Arturo Calabresi
+Riccardo Calafiori
+Luca Caldirola
+Drissa Camara
+Matteo Cancellieri
+Riccardo Capellini
+Elio Capradossi
+Gianluca Caprari
+Francesco Caputo
+Andrea Carboni
+Franco Carboni
+Matteo Carnelos
+Giuseppe Caso
+Francesco Cassata
+Danilo Cataldi
+Federico Ceccherini
+Christian Celesia
+Luca Ceppitelli
+Alberto Cerri
+Yıldırım Mert Çetin
+Julian Chabot
+Vlad Chiricheş
+Lorenzo Chiti
+Riccardo Ciervo
+Giuseppe Ciocci
+Antonio Cioffi
+Denilho Cleonise
+Ebrima Colley
+Omar Colley
+Simone Colombi
+Gianluca Contini
+Nikita Contini
+Alex Cordaz
+Andreas Cornelius
+Davide Costanzo
+Alessio Cragno
+Gian Marco Crespi
+Domenico Criscito
+Giuseppe Cuomo
+Francesco Cusumano
+Wylan Cyprien
+Lennart Czyborra
+Szymon Czyż
+Giuseppe D'Agostino
+Francesco D'Alterio
+Giovanni D'Aprile
+Cosimo Da Graca
+Bryan Dabo
+Daniel Bessa
+Daniel Fuzato
+Ebrima Darboe
+Paweł Dawidowicz
+Sebastien De Maio
+Davide De Marino
+Lorenzo De Silvestri
+Koni De Winter
+Alessandro Deiola
+Isaias Del Pupo
+Cristian Dell'Orco
+Fabio Depaoli
+Samuel Di Carmine
+Enrico Di Gesù
+Alessandro Di Pardo
+Giuseppe Di Serio
+Amadou Diambo
+Daan Dierckx
+Mitchell Dijks
+Koffi Djidji
+Nicolás Domínguez
+Denis Drăguş
+Radu Drăgușin
+Daniel Dumbrăvanu
+Alfred Duncan
+Eduard Dutu
+Filip Đuričić
+Steeve Eboa
+Eduardo Henrique
+Albin Ekdal
+Eljif Elmas
+Martin Erlić
+Gonzalo Escalante
+Nahuel Estévez
+Valentin Eysseric
+Nicolò Fagioli
+Paolo Faragò
+Davide Faraoni
+Simone Farelli
+Mohamed Fares
+Andrea Favilli
+Félix Correia
+Amir Feratovič
+Erick Ferigra
+Alex Ferrari
+Gianmarco Ferrari
+Marco Festa
+Fernando Forestieri
+Daam Foulon
+Gianluca Frabotta
+Damiano Franco
+Marco Frigerio
+Alessio Furlanetto
+Gabriel Pereira
+Riccardo Gagliolo
+Adolfo Gaich
+Andrey Galabinov
+Giovanni Garofani
+Manuel Gasparini
+Ludovico Gelmi
+Paolo Ghiglione
+Davide Ghislandi
+Amer Gojak
+Edoardo Goldaniga
+Vladimir Golemić
+Piergraziano Gori
+Alberto Grassi
+Jean Greco
+Koray Günter
+Emmanuel Gyabuaa
+Emmanuel Gyasi
+Lukáš Haraslín
+Hernani
+Përparim Hetemaj
+Aaron Hickey
+Wesley Hoedt
+Krisztofer Horváth
+Simone Iacoponi
+Hubert Idasiak
+Igor
+Ivan Ilić
+Matei Ilie
+Riccardo Improta
+Roberto Inglese
+Roberto Insigne
+Artur Ioniță
+Ardian Ismajli
+Franco Israel
+Armando Izzo
+Mato Jajalo
+Jakub Jankto
+Bogdan Jočić
+Andreas Jungdal
+Musa Juwara
+Kaique Rocha
+Yayah Kallon
+Yann Karamoh
+Ibrahim Karamoko
+Isaac Karamoko
+Omar Khailoti
+Márk Kosznovszky
+Titas Krapikas
+Dimo Krastev
+Altin Kryeziu
+Giorgos Kyriakopoulos
+Antonino La Gumina
+Valerio Labriola
+Sam Lammers
+Gianluca Lapadula
+Kevin Lasagna
+Darko Lazović
+Léo Sena
+Mehdi Léris
+Karlo Letica
+Gaetano Letizia
+Karol Linetty
+Matteo Lovato
+Igor Lucatelli
+Saša Lukić
+Sebastiano Luperto
+Zito Luvumbo
+Lyanco
+Charalampos Lykogiannis
+Ibrahima M'Baye
+Lisandro Magallán
+Giulio Maggiore
+Francesco Magnanelli
+Giangiacomo Magnani
+Jean-Victor Makengo
+Dennis Man
+Rolando Mandragora
+Nicoló Manfredini
+Federico Marchetti
+Riccardo Marchizza
+Iulius Mărginean
+Daniele Mariani
+Răzvan Marin
+Marlon
+Luca Marrone
+Adam Marušić
+Davide Masella
+Andrea Masiello
+Federico Mattiello
+Antonio Mazzotta
+Filippo Melegoni
+Alessandro Mercati
+Nikos Michelis
+Petar Mićin
+Massimiliano Mignogna
+Miguel Veloso
+Valentin Mihăilă
+Tommaso Milanese
+Vanja Milinković-Savić
+Joseph Minala
+Antonio Mionić
+Leonardo Moleri
+Salvatore Molina
+Nahuel Molina Lucero
+Marco Molla
+Gabriele Moncini
+Lorenzo Montipò
+Lorenzo Moretti
+Raul Morichelli
+Mert Müldür
+Louis Munteanu
+Nicola Murru
+Angelo Ndrecka
+Ilija Nestorovski
+Hans Nicolussi Caviglia
+Bram Nuytinck
+Simeon Nwankwo
+M'bala Nzola
+Brian Oddei
+Stefano Okaka
+Maximiliano Olivera
+Giacomo Olzer
+Jérôme Onguéné
+Riccardo Orsolini
+Yordan Osorio
+Thomas Ouwejan
+Daniele Padelli
+Mattia Pagliuca
+Alberto Paleari
+Martin Palumbo
+Simone Panada
+Ivor Pandur
+Christian Pastina
+Leonardo Pavoletti
+Pedro Obiang
+Pedro Pereira
+Daouda Peeters
+Gianluca Pegolo
+Federico Peluso
+Gastón Pereiro
+Jacopo Petriccione
+Giuseppe Pezzella
+Marzio Pica
+Stefano Piccinini
+Roberto Piccoli
+Christian Pierobon
+Niccoló Pietra
+Andrea Pinamonti
+Carlo Pinsoglio
+Pierluigi Pinto
+Marko Pjaca
+Tommaso Pobega
+Suf Podgoreanu
+Andrea Poli
+Fabio Ponsi
+Manolo Portanova
+Nik Prelec
+Sebastian Prödl
+Ivan Provedel
+Ruben Providence
+Erick Pulgar
+Ignacio Pussetto
+Simone Rabbi
+Ivan Radovanović
+Ionuț Radu
+Reinaldo Radu
+Boris Radunović
+Rafael Pinheiro
+Hamza Rafia
+Antonio Raimondo
+Gastón Ramírez
+Juan Ramos
+Antonio Ranieri
+Filippo Ranocchia
+Raúl Moro
+Federico Ravaglia
+Nicola Ravaglia
+Arkadiusz Reca
+Vasco Regini
+Matteo Ricci
+Jacopo Riccò
+Alessandro Rigo
+Filippo Rinaldi
+Andrea Rispoli
+Emmanuel Rivière
+Emil Roback
+Matias Rocchi
+Rodrigo Becão
+Marko Rog
+Rogério
+Luis Rojas
+Filippo Romagna
+Aristóteles Romero
+Antonio Rosati
+Francesco Rossi
+Nicolò Rovella
+Kevin Rüegg
+Dion Ruffo Luci
+Matteo Ruggeri
+Matteo Saccani
+Jacopo Sala
+Eddie Salcedo
+Salva Ferrer
+Luigi Samele
+Samir
+Antonio Sanabria
+Siriki Sanogo
+Federico Santander
+Riccardo Saponara
+Martín Satriano
+Marco Sau
+Răzvan Sava
+Giorgio Scalvini
+Pasquale Schiattarella
+Jerdy Schouten
+Simone Scuffet
+Florent Shehu
+Marco Silvestri
+Wilfried Singo
+Łukasz Skorupski
+Andreas Skov Olsen
+Simon Sohm
+Francesco Solimeno
+Roberto Soriano
+Riccardo Sottil
+Adama Soumaoro
+Marco Sportiello
+Mattia Sprocati
+Niccolò Squizzato
+Luca Stanga
+Filip Stanković
+Jens Stryger Larsen
+Stefano Sturaro
+Abdullahi Suleiman
+Boško Šutalo
+Mattias Svanberg
+Lamine Tall
+Adrien Tameze
+Andrés Tello
+Filippo Terracciano
+Pietro Terracciano
+Claudio Terzi
+Morten Thorsby
+Mattia Timmoneri
+Tòfol Montiel
+Lorenzo Tonelli
+Riccardo Tonin
+Ernesto Torregrossa
+Mattéo Tramoni
+Chaka Traorè
+Alessandro Tripaldelli
+Filippo Tripi
+Alessandro Tuia
+Stefano Turati
+Martin Turk
+Destiny Udogie
+Samir Ujkani
+Kacper Urbański
+Lautaro Valenti
+Lorenzo Venuti
+Daniele Verde
+Simone Verdi
+Edoardo Vergani
+Valerio Verre
+Franco Vezzoni
+Samuele Vianni
+Guglielmo Vicario
+Ronaldo Vieira
+Luca Vignali
+Emanuel Vignato
+Nicolas Viola
+Samuele Vitale
+Rok Vodišek
+Mërgim Vojvoda
+Giacomo Vrioni
+Miloš Vulić
+Walace
+Sebastian Walukiewicz
+David Wieser
+Sergio Yakubiv
+Philip Yeboah
+Vasilios Zagaritis
+Miha Zajc
+Nicola Zalewski
+Niccolò Zanellato
+Gabriele Zappa
+Karim Zedadka
+Lukáš Zima
+Jeroen Zoet
+A._Remiro
+Herrerín
+Núñez
+Yeray
+San_José
+Yuri_B.
+I._Lekue
+Balenziaga
+Nolaskoain
+Beñat
+Iturraspe
+Córdoba
+Susaeta
+Dani_García
+Mikel_Rico
+De_Marcos
+Ibai
+Capa
+Raúl_García
+Unai_López
+Iñigo_Vicente
+Gorka_Guruzeta
+Kenan_Kodro
+Muniain 
+Aduriz
+Alex_Dos_Santos
+Adán
+Filipe_Luis
+Arias
+Nehuen_Pérez
+Juanfran
+Andrés_Solano
+Francisco_Montero
+Manuel_Sánchez
+Cristian_Rodríguez
+Mikel_Carro
+Borja_Garcés
+Victor_Mollejo
+Joaquín_Muñoz
+Sergio_Camello
+Gustavo_Assunção
+Kalinić
+Vitolo
+Cuéllar
+Andrés
+Andriy_Lunin
+David_Tejero
+Juanfran
+Bustinza_M.
+Diego_Reyes
+J._Silva
+Nyom
+Kravets
+R._Tarín
+Muñoz
+Siovas
+K._Omeruo
+Óscar
+Gumbau
+Recio
+El_Zhar
+Szymanowski
+Eraso
+Rubén_Pérez_J.
+Vesga
+Javier_Avilés
+Carrillo
+Jose_Arnáiz
+Sabin_Merino
+Santos
+Pacheco
+Sivera
+Álex_Domínguez
+Vigaray
+R._Duarte
+Ely
+Laguardia
+Maripán
+Ximo Navarro
+Adrián Marín
+Martín
+Álex_Blanco
+T._Pina
+Inui
+Manu
+Darko
+M._Wakaso
+Jony
+Paulino_De_la_Fuente
+Andrei_Lupu
+Rolan
+Guidetti
+Calleri
+Burgui
+Borja
+Twumasi
+Iñaki_Peña
+Jeison_Murillo
+Todibo
+Vermaelen
+Juan_Miranda
+Guillem_Jaime
+Aleñá
+Malcom
+Kevin-Prince_Boateng
+Chichizola
+David_Soria
+R._Yáñez
+Djené
+Antunes
+Bruno
+Cabrera
+Olivera
+Miquel
+Damián Suárez
+Foulquier
+Miguel_Ángel_Rubio
+M._Bergara
+Portillo
+Gaku
+Samu_Sáiz
+S._Cristóforo
+Mathieu_Flamini
+Arambarri
+Maksimovic
+Hugo_Duro
+Mata
+Ángel 
+Jorge_Molina
+J._Suárez
+Iraizoz
+Bernardo
+Johan_Mojica
+Ramalho
+Alcalá
+Aday_Benítez
+Raúl_C.
+Juanpe
+Muniesa
+Planas
+Èric_Montes
+Kevin_Soni
+Paik
+Yhoan_Andzouana
+Granell
+Pere_Pons
+Borja_García
+Douglas_Luiz
+Roberts
+Aleix_García
+Pedro_Porro
+Valery_Fernández
+Álex_Pachón
+Stuani
+Portu
+Lozano
+Doumbia
+Koke
+Oier
+Aitor_Fdez.
+Jordi
+Toño
+Rober_Pier
+Chema R.
+Coke
+Rubén_Vezo
+Postigo
+E._Cabaco
+Pedro_López
+Antonio_Luna
+Doukouré_C.
+Bardhi
+J._Morales
+Rochina
+Vukčević
+Jason
+J._Campaña
+Fran_Manzanara
+Arturo_Molina
+Moses
+Roger
+Dwamena
+Masip
+Yoel
+Joaquín
+Moisés
+K. Olivas
+Calero
+Moyano
+Antoñito
+Salisu
+Roberto Corral
+Javier Aparicio
+Hervías
+Luismi
+Waldo
+Borja
+Óscar Plano
+Verde
+Rubén Alcaraz
+Toni
+Míchel
+Anuar
+Keko_Gontán
+Miguel_De_la_Fuente
+Pablo_Muñoz
+Hacen
+Enes_Ünal
+Sergi_Guardiola
+Duje_Cop
+Stiven 
+Alberto_G.
+Dimitrievski
+Miguel_Ángel_Morro
+Alejandro_Catena
+Sergio_Akieme
+Tito_L._V.
+Álex_Moreno
+Amat
+Advíncula
+E._Velázquez
+A._Ba
+Gálvez
+Martín_Pascual
+Luis_Meseguer
+Santi_Comesaña
+Uche
+Medrán
+Gorka
+Kakuta
+Giannelli_Imbula
+Bebé
+Mario_Suárez
+Álvaro
+Pozo
+Franco_Di_Santo
+Manuel_Navarro
+Ángel_Algobia
+M._L._S._Trejo
+R._D._T.
+Embarba
+Lass_B.
+Javi_Guerra
+Sergio_Moreno
+Sergio_A.
+Rubén_Blanco
+Iván_Villar
+Lucas_Olaza
+Hugo_Mallo
+David_Costas
+Wesley_Hoedt
+Juncà
+G._Cabral
+Okay
+Radoja
+Emre_Mor
+F._Beltrán
+Lobotka
+Hjulsager
+Jensen
+Boufal
+Jozabed
+B._Méndez
+Boudebouz
+M._Gómez
+Sisto
+Roberto
+Diego_López
+Lluís_López
+Naldo
+O._Duarte
+Roberto_Rosales 
+Dídac_Vilà
+Javi_López
+Adrià_Pedrosa
+Iago/Indias
+Alfa_Semedo
+Facundo_Ferreyra
+Víctor_S.
+S._Darder
+Melendo
+David López
+Álex López
+M._Roca
+Granero
+Carlos_Doncel
+Víctor_Campuzano
+Borja_Iglesias
+S._García
+Hernán_Pérez
+Piatti
+Puado
+Wu_Lei
+Joel_Robles
+Francis_G.
+Feddal
+Sidnei
+A._Barragán
+Júnior
+Mandi
+Julio_Alonso
+Edgar_González
+Kaptoum
+Javi_García
+Canales
+Tello_Herrera
+Joaquín
+A._Guardado
+Diego_Lainez
+Adrián_Tellado
+Irizo
+Robert
+Diego_Altamirano
+Jaime_Garijo
+Paul_Akouokou
+Sergio_León
+Jesé
+Loren
+Luca_Zidane
+Javi_Sánchez
+Adrián_de_la_Fuente
+Francisco_Garcia
+Álvaro_Fidalgo
+Jaume Grau
+Cristo_González
+Andoni_Zubiaurre
+Gero_Rulli
+Moyà
+Zaldúa
+Llorente_R.
+H.Moreno
+Aritz
+Gorosabel
+Rodrigues
+Raúl_Navas
+Robin_Le_Normand
+Aihen_Muñoz
+Alex_Sola
+Ander_Guevara
+Illarramendi
+Zubeldia
+Merino
+R._Pardo
+Merquelanz
+Zurutuza
+Sangalli 
+Roberto_López
+Näis_Djouahra
+Ander_Barrenetxea
+Martín_Zubimendi
+Zourdine_Thior
+Juanmi
+Januzaj
+Willian_J.
+Bautista
+Sandro
+Dmitrović
+Riesgo
+J._Calavera
+Bigas
+N._E._Ramis 
+Paulo
+Cote
+Cucurella
+Arbilla
+Escalante
+Sergio_A.
+P._Diop
+R._Peña
+Orellana
+De_Blasis
+P._León
+Pere_Milla
+Jordán
+Miguel_Marí
+Marc
+Sergi_Enrich
+Kike_G.
+Charles_L.
+Javi_Varas
+Santamaría
+Jovanović
+Mantovani
+Etxeita
+Diéguez
+J._Pulido
+Akapo
+Luisinho
+Insua
+Miramón
+Aguilera
+Moi_Gómez
+Ferreiro
+Melero
+Camacho
+Álex_Gallar
+Javi_Galán
+Rivera
+Juanpi
+Herrera
+Musto
+Cucho_Hernández
+Chimy_Ávila
+Enric_Gallego
+Tomáš_Vaclík
+Juan_Soriano
+Javier_Díaz
+Sergi_Gómez
+Carriço
+Maximilian_Wöber
+Escudero
+Arana
+Gnagnon
+Mercado
+Amadou
+R._Mesa
+Banega
+Gonalons
+Marko_Rog
+Bryan_Gil_Salvatierra
+Nolito
+Munir
+Promes
+Domenech
+Roncaglia
+Gabriel_Paulista
+Diakhaby
+Lato
+Piccini 
+Garay
+Hugo_Guillamón
+Gonçalo_Guedes
+Carlos_Soler
+Parejo
+Chéryshev
+Lee_Kang-In
+Coquelin
+Wass
+Fran Navarro
+Gameiro
+Ferrán
+S._Mina
+Sobrino
+S._Asenjo 
+Andrés_Fdez
+Barbosa
+Quintillà
+Mario_Gaspar
+Álvaro 
+Funes Mori
+Víctor Ruiz
+J. Costa
+Miguelón
+Bonera
+Manuel_Morlanes
+Cáseres
+P._Fornals
+Iborra
+M._Trigueros
+Pedraza
+Javi_Fuego
+Bruno
+Raba
+Samuel_Chukwueze
+Iván_Martín
+Andrei_Ratiu
+Gerard
+Bacca
+Toko_Ekambi

@@ -1,2 +1,2 @@
-# Google-Reverse-Search-by-Image
-Searching in goolge by image but in telegram.
+# Football-Player-Picture-Telegram-bot
+A telegram bot that sends a football player picture randomly to guess it in groups and enjoy to palying!
