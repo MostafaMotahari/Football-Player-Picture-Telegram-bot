@@ -1,487 +1,316 @@
-﻿Mesut Özil
-Sokratis Papastathopoulos
-David Luiz Moreira Marinho
-Pierre-Emerick Aubameyang
-Cédric Soares
-Alexandre Lacazette
-Shkodran Mustafi
-Bernd Leno
-Granit Xhaka
-Héctor Bellerín
-Sead Kolasinac
-Kieran Tierney
-Nicolas Pépé
-Lucas Torreira
-Emile Smith Rowe
-Bukayo Saka
-Gabriel Teodoro Martinelli Silva
-Mathew Ryan
-Willian Borges Da Silva
-Gabriel Magalhães
-Daniel Ceballos Fernández
-Mohamed Naser El Sayed Elneny
-Thomas Partey
-Martin Ødegaard
-Emiliano Martínez
-Jack Grealish
-Tyrone Mings
-Ross Barkley
-Ollie Watkins
-Bertrand Traoré
-Adam Lallana
-Lewis Dunk
-Alireza Jahanbakhsh
-Ben White
-Danny Welbeck
-Ashley Barnes
-Ben Mee
-Nick Pope
-César Azpilicueta
-Olivier Giroud
-Marcos Alonso
-Mateo Kovacic
-Antonio Rüdiger
-Kurt Zouma
-Emerson Palmieri dos Santos
-Kepa Arrizabalaga
-N'Golo Kanté
-Hakim Ziyech
-Andreas Christensen
-Timo Werner
-Tammy Abraham
-Christian Pulisic
-Mason Mount
-Fikayo Tomori
-Callum Hudson-Odoi
-Reece James
-Billy Gilmour
-Benjamin Chilwell
-Thiago Thiago
-Kai Havertz
-Edouard Mendy
-Michy Batshuayi
-Gary Cahill
-Mamadou Sakho
-Christian Benteke
-Jordan Ayew
-Wilfried Zaha
-Fabian Delph
-Gylfi Sigurdsson
-Lucas Digne
-Michael Keane
-Jordan Pickford
-Alex Iwobi
-Yerry Mina
-Tom Davies
-Dominic Calvert-Lewin
-Richarlison de Andrade
-João Virgínia
-Moise Kean
-James Rodríguez
-Abdoulaye Doucouré
-Niels Nkounkou
-Joshua King
-Ruben Loftus-Cheek
-Kasper Schmeichel
-Jonny Evans
-Marc Albrighton
-Jamie Vardy
-Youri Tielemans
-Ayoze Pérez
-James Maddison
-Kelechi Iheanacho
-Harvey Barnes
-Wilfred Ndidi
-Çaglar Söyüncü
-Timothy Castagne
-Cengiz Ünder
-Wesley Fofana
-Luke Ayling
-Ezgjan Alioski
-Patrick Bamford
-Kalvin Phillips
-James Milner
-Konstantinos Tsimikas
-Georginio Wijnaldum
-Jordan Henderson
-Adrián San Miguel del Castillo
-Joel Matip
-Xherdan Shaqiri
-Alex Oxlade-Chamberlain
-Roberto Firmino
-Virgil van Dijk
-Sadio Mané
-Alisson Ramses Becker
-Mohamed Salah
-Andrew Robertson
-Divock Origi
-Trent Alexander-Arnold
-Joseph Gomez
-Naby Keita
-Curtis Jones
-Neco Williams
-Diogo Jota
-Thiago Alcántara do Nascimento
-Nathaniel Phillips
-Ozan Kabak
-Ben Davies
-Sergio Agüero
-Nicolás Otamendi
-Kyle Walker
-Ilkay Gündogan
-Kevin De Bruyne
-John Stones
-Benjamin Mendy
-Riyad Mahrez
-Raheem Sterling
-João Pedro Cavaco Cancelo
-Ederson Santana de Moraes
-Nathan Aké
-Aymeric Laporte
-Bernardo Mota Veiga de Carvalho e Silva
-Gabriel Fernando de Jesus
-Oleksandr Zinchenko
-Phil Foden
-Ferran Torres
-Eric Garcia
-Zack Steffen
-Sergio Romero
-Juan Mata
-David de Gea
-Chris Smalling
-Marcos Rojo
-Nemanja Matic
-Paul Pogba
-Phil Jones
-Harry Maguire
-Frederico Rodrigues de Paula Santos
-Luke Shaw
-Bruno Miguel Borges Fernandes
-Anthony Martial
-Andreas Pereira
-Dean Henderson
-Marcus Rashford
-Victor Lindelöf
-Scott McTominay
-Daniel James
-Aaron Wan-Bissaka
-Mason Greenwood
-Brandon Williams
-Donny van de Beek
-Alex Nicolao Telles
-Edinson Cavani
-Lee Grant
-Joseph Willock
-Andy Carroll
-Theo Walcott
-Takumi Minamino
-Danny Ings
-Jannik Vestergaard
-James Ward-Prowse
-Hugo Lloris
-Danny Rose
-Moussa Sissoko
-Toby Alderweireld
-Erik Lamela
-Harry Kane
-Serge Aurier
-Heung-Min Son
-Eric Dier
-Lucas Rodrigues Moura da Silva
-Ben Davies
-Pierre-Emile Højbjerg
-Harry Winks
-Davinson Sánchez
-Steven Bergwijn
-Japhet Tanganga
-Giovani Lo Celso
-Tanguy Ndombele
-Matt Doherty
-Joe Hart
-Sergio Reguilón
-Gareth Bale
-Carlos Vinicius Alves Morais
-Ainsley Maitland-Niles
-Jesse Lingard
-Lukasz Fabianski
-Angelo Ogbonna
-Jack Wilshere
-Andriy Yarmolenko
-Michail Antonio
-Manuel Lanzini
-Felipe Anderson Pereira Gomes
-Sébastien Haller
-Jarrod Bowen
-Declan Rice
-Tomas Soucek
-Vladimir Coufal
-Saïd Benrahma
-Raúl Jiménez
-Adama Traoré
-Rúben Diogo da Silva Neves
-Fabio Silva
-Nélson Cabral Semedo
-Gennaro Acampora
 Francesco Acerbi
-Enzo Adeagbo
 Adrien Silva
-Giuseppe Agostino
-Lucien Agoumé
-Alejandro Marqués
+Jean-Daniel Akpa-Akpro
 Alex Sandro
 Sofyan Amrabat
-Djavan Anderson
-Angelo da Costa
-Tolgay Arslan
+Andreas Pereira
+Cristian Ansaldi
 Arthur
-Kaan Ayhan
+Kwadwo Asamoah
+Milan Badelj
 Tiemoué Bakayoko
-Mattia Bani
-Federico Barba
+Keita Baldé
 Nicolò Barella
 Alessandro Bastoni
-Thomas Battistella
 Andrea Belotti
 Ismaël Bennacer
 Rodrigo Bentancur
-Alessandro Berardi
 Domenico Berardi
 Federico Bernardeschi
-Nicoló Bertola
 Cristiano Biraghi
-Salvatore Boccia
+Jérémie Boga
 Giacomo Bonaventura
 Leonardo Bonucci
 Borja Mayoral
 Borja Valero
 Brahim Díaz
-Federico Brancolini
-Bremer
 Marcelo Brozović
 Bruno Alves
+Bruno Peres
 Gianluigi Buffon
+Martín Cáceres
+Felipe Caicedo
 Davide Calabria
+Mattia Caldara
 Hakan Çalhanoğlu
 Antonio Candreva
 Carles Pérez
-Francesco Cassata
-Yıldırım Mert Çetin
+Gaetano Castrovilli
 Giorgio Chiellini
 Federico Chiesa
-Giuseppe Ciocci
+Luca Cigarini:
+Andrea Consigli
 Andrea Conti
-Gianluca Contini
-Alex Cordaz
-Andreas Cornelius
 Joaquín Correa
-Alessio Cragno
-Gian Marco Crespi
 Bryan Cristante
 Cristiano Ronaldo
 Juan Cuadrado
-Giuseppe D'Agostino
 Danilo D'Ambrosio
-Giovanni D'Aprile
 Mikkel Damsgaard
 Danilo
 Matteo Darmian
 Matthijs de Ligt
 Rodrigo de Paul
+Marten de Roon
 Stefan de Vrij
-Alessandro Deiola
-Cristian Dell'Orco
+Grégoire Defrel
 Merih Demiral
 Diego Demme
+Mattia Destro
 Giovanni Di Lorenzo
 Amadou Diawara
 Federico Dimarco
 Diogo Dalot
-Nicolás Domínguez
+Berat Djimsiti
+Antonio Donnarumma
 Gianluigi Donnarumma
+Bartłomiej Drągowski
 Paulo Dybala
 Edin Džeko
 Stephan El Shaarawy
 Christian Eriksen
 Fabián Ruiz
-Gianmarco Ferrari
+Federico Fazio
+Remo Freuler
+Manolo Gabbiadini
 Roberto Gagliardini
-Riccardo Gagliolo
-Adolfo Gaich
-Manuel Gasparini
 Gerard Deulofeu
-$Gervinho
+Gervinho
+Faouzi Ghoulam
 Kamil Glik
 Diego Godín
 Pierluigi Gollini
 Gonzalo Villar
 Robin Gosens
-Alberto Grassi
 Achraf Hakimi
 Samir Handanovič
+Hans Hateboer
 Jens Hauge
 Theo Hernández
 Elseid Hysaj
+Iago Falqué
+Ibañez
 Zlatan Ibrahimović
-Ivan Ilić
 Josip Iličič
-Roberto Inglese
 Lorenzo Insigne
-Roberto Insigne
 João Pedro
-Bogdan Jočić
 José Callejón
-Ibrahim Karamoko
+Juan Jesus
+Junior Messias
+Nikola Kalinić
+Pierre Kalulu
+Rick Karsdorp
 Franck Kessié
 Simon Kjær
+Ragnar Klavan
 Aleksandr Kokorin
 Aleksandar Kolarov
+Christian Kouamé
 Kalidou Koulibaly
 Viktor Kovalenko
-Dimo Krastev
 Rade Krunić
+Juraj Kucka
 Dejan Kulusevski
+Marash Kumbulla
 Jasmin Kurtić
-Valerio Labriola
-Gianluca Lapadula
 Manuel Lazzari
 Llorente
-$Stanislav Lobotka
+Stanislav Lobotka
 Manuel Locatelli
-Matteo Lovato
-Igor Lucatelli
+Maxime López
+Hirving Lozano
+Lucas Leiva
 Luis Alberto
+Luiz Felipe
 Romelu Lukaku
-Sebastiano Luperto
-Lyanco
-Ibrahima M'Baye
-Francesco Magnanelli
+Senad Lulić
 Nikola Maksimović
+Kévin Malcuit
 Daniel Maldini
 Ruslan Malinovskiy
 Gianluca Mancini
 Mario Mandžukić
 Kostas Manolas
-Federico Marchetti
-Răzvan Marin
 Mário Rui
 Lautaro Martínez
-Antonio Mazzotta
 Joakim Mæhle
 Weston McKennie
 Gary Medel
+Soualiho Meïté
+Alex Meret
 Dries Mertens
-Nikos Michelis
-Massimiliano Mignogna
-Valentin Mihăilă
 Nikola Milenković
 Sergej Milinković-Savić
-Vanja Milinković-Savić
 Aleksey Miranchuk
 Antonio Mirante
 Henrikh Mkhitaryan
-Leonardo Moleri
-Salvatore Molina
 Morata
 Luis Muriel
+Vedat Muriqi
+Mateo Musacchio
+Juan Musso
+Nicolas N'Koulou
 Radja Nainggolan
-Ilija Nestorovski
+Nahitan Nández
 Victor Osimhen
 David Ospina
-Daniele Padelli
+Adam Ounas
 Rodrigo Palacio
+José Palomino
 Goran Pandev
+Marco Parolo
+Mario Pašalić
 Javier Pastore
+Patric
 Pau López
-Leonardo Pavoletti
 Pedro
 Graziano Pellè
 Lorenzo Pellegrini
 Luca Pellegrini
 Pepe Reina
 Roberto Pereyra
+Mattia Perin
 Ivan Perišić
 Matteo Pessina
-Stefano Piccinini
-Andrea Pinamonti
-Pierluigi Pinto
-Andrea Poli
+Andrea Petagna
+Germán Pezzella
 Matteo Politano
-Manolo Portanova
-Ignacio Pussetto
 Fabio Quagliarella
 Adrien Rabiot
-Ivan Radovanović
 Stefan Radu
 Rafael Leão
-Hamza Rafia
-Antonio Raimondo
-Gastón Ramírez
 Aaron Ramsey
-Antonio Ranieri
 Andrea Ranocchia
-Filippo Ranocchia
 Giacomo Raspadori
-Federico Ravaglia
 Ante Rebić
-Vasco Regini
+Bryan Reynolds
 Franck Ribéry
+Tomás Rincón
 Ricardo Rodríguez
-Luis Rojas
-Filippo Romagna
 Alessio Romagnoli
-Aristóteles Romero
 Cristian Romero
-Francesco Rossi
-Nicolò Rovella
+Amir Rrahmani
 Daniele Rugani
 Alexis Saelemaekers
-Samir
 Samu Castillejo
-Antonio Sanabria
 Alexis Sánchez
-Giorgio Scalvini
+Nicola Sansone
+Davide Santon
+Gianluca Scamacca
 Stefano Sensi
 Eldor Shomurodov
 Giovanni Simeone
 Salvatore Sirigu
 Milan Škriniar
 Chris Smalling
-Roberto Soriano
 Leonardo Spinazzola
-Filip Stanković
+Thomas Strakosha
 Kevin Strootman
-Jens Stryger Larsen
-Stefano Sturaro
 Wojciech Szczęsny
-Filippo Terracciano
-Pietro Terracciano
-Mattia Timmoneri
-Tòfol Montiel
+Ciprian Tătăruşanu
 Jeremy Toljan
 Rafael Tolói
 Takehiro Tomiyasu
 Fikayo Tomori
 Sandro Tonali
-Lorenzo Tonelli
-Ernesto Torregrossa
-Samir Ujkani
-Lautaro Valenti
 Matías Vecino
-Simone Verdi
-Valerio Verre
+Jordan Veretout
 Arturo Vidal
-Emanuel Vignato
-Samuele Vitale
 Dušan Vlahović
-Walace
+Maya Yoshida
 Ashley Young
 Mattia Zaccagni
-Nicola Zalewski
 Nicolò Zaniolo
 Cristián Zapata
 Duván Zapata
-Gabriele Zappa
 Davide Zappacosta
 Simone Zaza
 Piotr Zieliński
 Joshua Zirkzee
+﻿#Hodei_Oleaga
+Unai Simón
+I. Martínez
+Williams
+Oblak 
+Godín
+Savić
+L. Hernández
+J. M. Giménez
+Thomas
+Koke
+Saúl
+Rodrigo
+Griezmann
+Correa
+Lemar
+Diego Costa
+Morata
+Youssef En-Nesyri
+Braithwaite
+Ter Stegen
+Cillessen
+N. Semedo
+Piqué
+Clement Lenglet
+Jordi Alba
+S. Roberto
+Umtiti
+I. Rakitić
+Sergio
+Coutinho
+Arthur
+Rafinha
+Vidal
+Suárez
+Messi
+O. Dembélé
+Bono
+B. Mayoral
+Nacho
+Araújo
+Vázquez
+Iago Aspas
+Hermoso
+Pau López
+Emerson
+Bartra
+William Carvalho
+Giovani Lo Celso
+Navas
+Courtois
+Carvajal
+Vallejo
+Sergio Ramos
+Varane
+Nacho
+Marcelo
+Odriozola
+Reguilón
+Kroos
+Modrić
+Casemiro
+Valverde
+M. Llorente
+Asensio
+Brahim Díaz
+Isco
+D. Ceballos
+Mariano
+Benzema
+Bale
+L. Vázquez
+Vinicius
+Theo
+Oyarzabal
+Kjaer
+Aleix Vidal
+J. Navas
+Sarabia
+Vázquez
+Ben Yedder
+André Silva
+Neto
+Gayá
+Kondogbia
+Rodrigo
+S. Cazorla
