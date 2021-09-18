@@ -14,9 +14,12 @@ from base.plugins.custom_filters import power_filter
 # Send picture
 @Client.on_message(filters.user(OWNERS) & power_filter & (filters.regex("/speed$") | filters.regex("/search$")))
 def next_picture(cli: Client, msg):
+    player_name = ""
+
     if msg.text == "/speed":
         global ALL_PLAYERS_NAME
         global USED_PLAYER_NAMES
+        print(ALL_PLAYERS_NAME)
 
         if len(ALL_PLAYERS_NAME) == 0:
             ALL_PLAYERS_NAME = USED_PLAYER_NAMES
